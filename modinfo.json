@@ -1,0 +1,15 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "com.pa.domdom.nukes.merica",
+    "display_name" : "Nukes: 'MERICA",
+    "description" : "AMERICA! FUCK YEAH!",
+    "author" : "dom314",
+    "version" : "1.0.0",
+	"build": "80187",
+    "date": "2015/04/11",
+    "forum": "",
+    "category": ["ui", "effects"],
+    "icon": "",
+    "priority": 100
+}
