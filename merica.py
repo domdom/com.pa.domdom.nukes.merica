@@ -4,8 +4,9 @@ import math
 
 # path for the base nuke effect
 base_path = "/pa/units/land/nuke_launcher/nuke_launcher_ammo_explosion.pfx"
+
 out_path = "pa/units/land/nuke_launcher/nuke_launcher_ammo_explosion.pfx"
-# out_path = "../../../effects/specs/ping.pfx"
+# out_path = "pa/effects/specs/ping.pfx"
 
 # this is the base nuke effect, it comes from the game
 base_nuke = utils.load_base_json(base_path)
@@ -74,8 +75,8 @@ base_particle = {
         "baseTexture": "/pa/effects/textures/particles/flat.papa"
     },
     "rotationRange" : 3.14,
-    "lifetime": 2.5,
-    "lifetimeRange": 0.2,
+    "lifetime": 6,
+    "lifetimeRange": 0.8,
     "type": "EMITTER",
     "useRadialVelocityDir" : True,
     "velocity": 120,
