@@ -212,4 +212,4 @@ def create_flag():
 
 create_flag()
 
-utils.save_local_json(base_nuke, out_path, 3)
+utils.save_local_json(base_nuke, out_path)
