@@ -1,6 +1,6 @@
 {
     "enabled" : true,
-    "context" : "server",
+    "context" : "client",
     "identifier" : "com.pa.domdom.nukes.merica",
     "display_name" : "Nukes: 'MERICA",
     "description" : "AMERICA! FUCK YEAH!",
