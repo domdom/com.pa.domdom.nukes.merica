@@ -1,15 +1,15 @@
 {
-    "enabled" : true,
     "context" : "client",
     "identifier" : "com.pa.domdom.nukes.merica",
     "display_name" : "Nukes: 'MERICA",
     "description" : "AMERICA! FUCK YEAH!",
     "author" : "dom314",
-    "version" : "1.0.3",
+    "signature": " ",
+    "version" : "1.0.4",
     "build": "89755",
-    "date": "2016/01/09",
+    "date": "2018-05-09",
     "forum": "https://forums.uberent.com/threads/rel-client-nukes-merica.68547/",
-    "category": ["in-game", "effects"],
+    "category": ["gameplay", "effects"],
     "icon": "http://i.imgur.com/Xk6JzMN.gif",
     "priority": 100
 }
